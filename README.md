@@ -7,7 +7,7 @@
 Em primeiro lugar, é necessário criar as seguintes pastas:
 * models
 * graphs
-* case 1, case 2, case 3, ..., case 16
+* case 1, case 2, case 3, [...], case 16
 
 ### 2. Geração de novos datasets utilizando data augmentation
 
